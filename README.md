@@ -114,7 +114,7 @@ The system operates in real-time, continuously capturing video from the camera, 
 
 ## Live Demo
 
-[![Watch the Live Demo](https://drive.google.com/file/d/1WvPn39LDB8LWZsaelD7IVFolAQjVRRbQ/view?usp=sharing)](https://drive.google.com/file/d/15ccZ_dX0Dgbk9IMN6TuWTrkdUrXc570H/view?usp=sharing)
+[![Watch the Live Demo](https://github.com/Jay-J-Pithadia/Major_Project_VOI/assets/96567980/1d9b3367-40a3-43fb-a272-b793561ae31d)](https://drive.google.com/file/d/15ccZ_dX0Dgbk9IMN6TuWTrkdUrXc570H/view?usp=sharing)
 
 
 ## Future Work
