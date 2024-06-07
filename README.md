@@ -114,7 +114,7 @@ The system operates in real-time, continuously capturing video from the camera, 
 
 ## Live Demo
 
-[![Watch the video]](https://drive.google.com/file/d/15ccZ_dX0Dgbk9IMN6TuWTrkdUrXc570H/view?usp=sharing)
+![Watch the Live Demo](https://drive.google.com/file/d/15ccZ_dX0Dgbk9IMN6TuWTrkdUrXc570H/view?usp=sharing)
 
 
 ## Future Work
@@ -128,7 +128,3 @@ Looking ahead, future improvements could include:
 ## Contributing
 
 We welcome contributions from the community. If you have any suggestions or improvements, please feel free to submit a pull request or open an issue.
-
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
