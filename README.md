@@ -19,10 +19,9 @@ This project aims to assist visually impaired individuals by providing real-time
   - [Voice Feedback Implementation](#voice-feedback-implementation)
   - [User Interaction](#user-interaction)
   - [Real-Time Object Detection and Voice Feedback](#real-time-object-detection-and-voice-feedback)
-- [Demo](#demo)
+- [Demo](#live-demo)
 - [Future Work](#future-work)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
