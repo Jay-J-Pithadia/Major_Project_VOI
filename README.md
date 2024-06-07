@@ -1,5 +1,7 @@
 # Object Detection with Voice Feedback for Visually Impaired Persons
 
+---
+
 ## Overview
 
 This project aims to assist visually impaired individuals by providing real-time object detection and voice feedback. The system uses advanced object detection technology to identify objects in the environment and communicates this information to the user through audio feedback. This greatly enhances their ability to navigate and interact with their surroundings safely and independently.
