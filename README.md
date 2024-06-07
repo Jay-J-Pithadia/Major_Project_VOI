@@ -54,19 +54,19 @@ This project aims to assist visually impaired individuals by providing real-time
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/object-detection-voice-feedback.git
-   cd object-detection-voice-feedback
+   git clone https://github.com/Jay-J-Pithadia/Major_Project_VOI.git
+   cd Major_Project_VOI
    ```
 
 2. **Install the required Python packages:**
 
    ```bash
-   pip install -r requirements.txt
+   pip install -r requirement.txt
    ```
 
 3. **Download the YOLOv8 model:**
 
-   Download the YOLOv8 model weights and place them in the `models` directory.
+   Download the YOLOv8l model weights from ![Ultralytics](https://github.com/ultralytics/assets/releases/download/v8.2.0/yolov8l.pt).
 
 4. **Setup Raspberry Pi:**
 
@@ -84,6 +84,7 @@ This project aims to assist visually impaired individuals by providing real-time
 
 4. **Follow the on-screen prompts to select your preferred language.**
 5. **The system will start detecting objects and providing voice feedback in real-time.**
+6. **To Run on Google Colab (for GPU accelerator): Use obj_det_main.ipynb file.**
 
 ## Detailed Description
 
@@ -111,16 +112,10 @@ The system is designed to be easy to use. When the system starts, the user is pr
 
 The system operates in real-time, continuously capturing video from the camera, processing each frame for object detection, and providing immediate voice feedback. This real-time capability is crucial for helping visually impaired users navigate dynamic environments safely.
 
-## Demo
+## Live Demo
 
-To see a live demo of the system in action:
+[![Watch the video]](https://drive.google.com/file/d/15ccZ_dX0Dgbk9IMN6TuWTrkdUrXc570H/view?usp=sharing)
 
-1. **Start the system and select the preferred language for voice feedback.**
-2. **The camera captures the surroundings and the system begins detecting objects.**
-3. **As objects are detected, the system announces them through audio feedback.**
-4. **For example, if a mobile phone is detected, the system will announce its presence and its distance from the user.**
-
-This allows the user to understand their environment and navigate safely.
 
 ## Future Work
 
